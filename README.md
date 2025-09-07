@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me  
 
-I’m **Darsh Jilka**, a passionate **Full Stack Developer** and **Computer Engineering student** who loves turning ideas into reality through code. Over the past few years, I’ve explored different areas of technology — from building web apps with Django and Node.js to experimenting with AI and automation.  
+I’m **Darsh Jilka**, a passionate **Full Stack Developer** and **Computer Engineering student** who loves turning ideas into reality through code. Over the past few years, I’ve explored different areas of technology — from building web apps with Django to experimenting with AI and automation.  
 
-Hackathons and projects have shaped my journey, teaching me how to solve real-world problems while collaborating with amazing teams. Recently, I’ve been diving into **Data Engineering, Agentic AI, and Cloud/DevOps**, aiming to combine these skills to create scalable, impactful solutions.  
+Hackathons and projects have shaped my journey, teaching me how to solve real-world problems while collaborating with amazing teams. Recently, I’ve been diving into **Data Engineering, Agentic AI and AI Automation**, aiming to combine these skills to create scalable, impactful solutions.  
 
 When I’m not coding, you’ll often find me brainstorming new ideas, exploring the latest tech trends, or guiding students in workshops to share what I’ve learned. For me, technology isn’t just a career path — it’s a way to **create, innovate, and make a difference**.  
 
@@ -70,3 +70,5 @@ When I’m not coding, you’ll often find me brainstorming new ideas, exploring
 </p>
 
 <p align="center">“Dream in Code 💡, Build in Reality ⚡”</p>
+
+---
