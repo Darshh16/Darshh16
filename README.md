@@ -59,7 +59,7 @@ When I’m not coding, you’ll often find me brainstorming new ideas, exploring
 
 ### ⚡ Fun Facts
 - 🚀 I love building projects that **solve real problems**  
-- 🎮 Currently exploring **Data Engineering and Agentic AI** alongside coding  
+- 🎮 Currently exploring **Data Science and Agentic AI** alongside coding  
 - 🎤 I’ve hosted events & workshops where I teach students about **AI tools & tech**  
 - 🏆 Won my **multiple hackathons and even volunteered for it** (and the grind continues 🔥)  
 
