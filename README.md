@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darsh</h1>
+<h1 align="center">Hi, I'm Darsh</h1>
 <h3 align="center">STUDENT | DATA SCIENCE | AI/ML | Tech Explorer | DSA Enthusiast</h3>
 
 <p align="center">
