@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darsh</h1>
-<h3 align="center">Student | DATA SCIENCE | AI/ML | Tech Explorer | DSA Enthusiast</h3>
+<h3 align="center">STUDENT | DATA SCIENCE | AI/ML | Tech Explorer | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNuZGIwYXowMml5eDN5YnVvOWoyaHB5b2wycHZ3dnFyMGplNmFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
