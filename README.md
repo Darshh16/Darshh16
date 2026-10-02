@@ -34,13 +34,13 @@ I like working across the whole lifecycle of a project, and I'm especially inter
 
 <br/>
 
-## `🔭 Currently Building & Exploring`
+## `currently building & exploring`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🗄️ Data Engineering**
+**Data Engineering**
 - SQL, databases, DuckDB
 - Data pipelines & processing
 - Analytics workflows
@@ -48,7 +48,7 @@ I like working across the whole lifecycle of a project, and I'm especially inter
 </td>
 <td width="50%" valign="top">
 
-**🧠 Machine Learning**
+**Machine Learning**
 - ML fundamentals, Deep Learning, NLP
 - Model development & evaluation
 - ML deployment
@@ -58,7 +58,7 @@ I like working across the whole lifecycle of a project, and I'm especially inter
 <tr>
 <td width="50%" valign="top">
 
-**✨ Generative AI**
+**Generative AI**
 - LLM applications, RAG, embeddings
 - Vector databases
 - LangGraph, agentic AI, AI automation
@@ -66,7 +66,7 @@ I like working across the whole lifecycle of a project, and I'm especially inter
 </td>
 <td width="50%" valign="top">
 
-**⚙️ MLOps**
+**MLOps**
 - Model serving & APIs
 - Docker & deployment
 - ML system architecture
@@ -77,7 +77,7 @@ I like working across the whole lifecycle of a project, and I'm especially inter
 
 <br/>
 
-## `🧰 Tech Stack`
+## `tech stack`
 
 > Technologies I use, work with, or am actively exploring.
 
@@ -91,52 +91,50 @@ I like working across the whole lifecycle of a project, and I'm especially inter
 
 <br/>
 
-## `🚀 Featured Projects`
+## `featured projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 FinPulse
-A financial sentiment intelligence platform that combines financial news, sentiment analysis and market data to study how news sentiment relates to stock movement.
+### FinPulse
+**Real-time financial news sentiment pipeline.**
+Classifies live financial news with FinBERT and aligns it with stock price movement to show price–sentiment correlation per ticker. FastAPI backend with 6 REST endpoints, a PostgreSQL pipeline, and a Streamlit + Plotly dashboard.
 
-**Concepts:** news collection · normalization & deduplication · weighted sentiment · price/sentiment analysis · signals · dashboard · API architecture
+`Python` `FinBERT` `FastAPI` `PostgreSQL` `Streamlit` `Plotly`
 
-`Python` `FastAPI` `Streamlit` `NLP` `yfinance` `News APIs`
+[**View repository →**](https://github.com/Darshh16/FinPulse-)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Auto Form Filler
-An AI-powered Chrome extension that helps users fill web forms using contextual, AI-generated suggestions — AI combined with software engineering.
+### Greenlight Cinema
+**AI-powered movie synopsis generation.**
+A self-correcting 4-agent LangGraph workflow (Writer → Critic → Refiner → Producer), grounded by a ChromaDB RAG pipeline over screenplay chunks and a DuckDB analytics engine over TMDB and MovieLens data for market-aware constraints.
 
-<br/>
+`LangGraph` `RAG` `ChromaDB` `DuckDB` `Embeddings`
 
-`JavaScript` `Chrome Extensions` `Manifest V3` `OpenAI API`
-
-[**View repository →**](https://github.com/Darshh16/AI_Autofill_ver2)
+[**View repository →**](https://github.com/Darshh16/GreenLight_Cinema)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ VibeTix
-A Django-based event and ticket booking platform inspired by modern ticket-booking apps. Shows my backend / full-stack foundation.
+### Air Buddy
+**Smart air quality monitoring platform.**
+ML-based AQI prediction with proactive pollution alerts, real-time monitoring dashboards, an OCR-based challan verification system, and Django backend services for continuous sensor data ingestion.
 
-<br/>
+`Python` `Django` `Machine Learning` `OCR`
 
-`Python` `Django` `JavaScript` `HTML/CSS` `SQLite`
-
-[**View repository →**](https://github.com/Darshh16/VibeTix)
+[**View repository →**](https://github.com/Darshh16/Air_Buddy)
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Inventory Optimization
-A SQL and data analytics project focused on extracting insights from inventory data and supporting inventory optimization decisions.
-
-<br/>
+### Inventory Optimization
+**SQL analytics project.**
+Multi-table SQL queries that surface stock inefficiencies, plus demand forecasting analysis on historical data to support procurement and inventory-turnover decisions.
 
 `MySQL` `SQL` `Data Analysis`
 
@@ -144,52 +142,46 @@ A SQL and data analytics project focused on extracting insights from inventory d
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🏥 MediAid / MedSync
-An emergency medical assistance platform that connects users with useful medical resources — doctors and pharmacies, first-aid information and prescription OCR — on a Django backend.
-
-`Python` `Django` `OCR` `OpenCV` `pytesseract`
-
-</td>
-</tr>
 </table>
 
 <details>
-<summary><b>Other work</b> — smaller or non-public projects</summary>
+<summary><b>Other work</b> — earlier or non-public projects</summary>
 
 <br/>
 
-**Asynchronous Robust Federated Learning platform** *(team Antigravity / Fedora)* — Django dashboard and database, FastAPI asynchronous FL endpoints, PyTorch-based ML workflows. `Django` `FastAPI` `PyTorch` `Federated Learning`
+**AI Auto Form Filler** — Chrome extension that suggests contextual, AI-generated answers for web forms. `JavaScript` `Manifest V3` `OpenAI API` · [Repository](https://github.com/Darshh16/AI_Autofill_ver2)
 
-**Also worked on:** Django web apps · Chrome extensions · data analytics · SQL projects · OCR applications · NLP projects · RAG systems · embedding-based retrieval · LangGraph workflows · AI agents · Streamlit dashboards · FastAPI services · ML pipelines
+**VibeTix** — Django-based event and ticket booking platform. `Python` `Django` `SQLite` · [Repository](https://github.com/Darshh16/VibeTix)
+
+**MediAid / MedSync** — Emergency medical assistance platform with doctors/pharmacies, first-aid information and prescription OCR. `Django` `OpenCV` `pytesseract`
+
+**Asynchronous Robust Federated Learning platform** *(team Antigravity / Fedora)* — Django dashboard and database, FastAPI asynchronous FL endpoints, PyTorch-based ML workflows. `Django` `FastAPI` `PyTorch`
 
 </details>
 
 <br/>
 
-## `🏆 Achievements`
+## `achievements`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🥇 Hackathon Winner**
+**Hackathon Winner**
 
 Won my first hackathon: **Technova** at Xavier Institute of Engineering, with Tanish Belel and Kartik Parmar.
 
 </td>
 <td width="33%" valign="top">
 
-**👨‍💻 Technical Head**
+**Technical Head**
 
 Hackathonix / GET AnalyticX — technical and event-related work.
 
 </td>
 <td width="33%" valign="top">
 
-**🎤 Workshops & Teaching**
+**Workshops & Teaching**
 
 Workshops on AI tools, Power BI, data analytics and tech skills. Created syllabi and learning programs for engineering students.
 
@@ -199,7 +191,7 @@ Workshops on AI tools, Power BI, data analytics and tech skills. Created syllabi
 
 <br/>
 
-## `🧭 Journey`
+## `journey`
 
 ```text
 Web Development
@@ -221,7 +213,7 @@ Data Engineering + ML Systems     ← building on everything above, not replacin
 
 <br/>
 
-## `🧩 How I Think About Systems`
+## `how i think about systems`
 
 ```text
                 DARSH JILKA
@@ -244,7 +236,7 @@ I don't just study individual technologies — I like combining them into comple
 
 <br/>
 
-## `⚡ Philosophy`
+## `philosophy`
 
 ```text
 Learn → Build → Break → Understand → Improve → Ship
@@ -254,7 +246,7 @@ Learn → Build → Break → Understand → Improve → Ship
 
 <br/>
 
-## `📊 GitHub Analytics`
+## `github analytics`
 
 <div align="center">
 
@@ -262,8 +254,6 @@ Learn → Build → Break → Understand → Improve → Ship
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshh16&layout=compact&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9" alt="Top languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Darshh16&theme=dark&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshh16&bg_color=0D1117&color=58A6FF&line=667EEA&point=C9D1D9&area=true&area_color=667EEA&hide_border=true" alt="Contribution activity graph" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Darshh16/Darshh16/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
